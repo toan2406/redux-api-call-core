@@ -1,6 +1,6 @@
 {
   "name": "redux-api-call",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "description": "Redux utilities for making API calls",
   "repository": "https://github.com/tungv/redux-api-call.git",
@@ -15,16 +15,32 @@
   },
   "jest": {
     "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(js)$",
-    "setupFiles": ["isomorphic-fetch/fetch-npm-node.js"],
-    "testPathIgnorePatterns": ["/node_modules/", "vendor", ".build"],
-    "moduleFileExtensions": ["js", "json", "node"],
+    "setupFiles": [
+      "isomorphic-fetch/fetch-npm-node.js"
+    ],
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "vendor",
+      ".build"
+    ],
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "node"
+    ],
     "moduleNameMapper": {
       "^.+\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",
       "^.+\\.(scss|css|less)(\\?\\w*)?$": "identity-obj-proxy"
     },
-    "coveragePathIgnorePatterns": ["/node_modules/", "__mocks__", "__tests__"]
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "__mocks__",
+      "__tests__"
+    ]
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "dist/redux-api-call.cjs.js",
   "module": "dist/redux-api-call.es.js",
   "devDependencies": {
