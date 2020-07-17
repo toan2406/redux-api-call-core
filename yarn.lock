@@ -2115,14 +2115,10 @@ lodash-es@^4.2.1:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
 
-lodash@^4.14.0, lodash@^4.16.1, lodash@^4.2.0, lodash@^4.2.1:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
-
-lodash@^4.17.4:
-  version "4.17.11"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+lodash@^4.14.0, lodash@^4.16.1, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 lolex@1.3.2:
   version "1.3.2"
@@ -2488,6 +2484,21 @@ read-pkg@^1.0.0:
     load-json-file "^1.0.0"
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
+
+"redux-api-call-adapter-dedupe@https://github.com/toan2406/redux-api-call-adapter-dedupe#v1.0.0":
+  version "1.0.0"
+  uid "83d221d5576d7c0955a023ee1f25d96464020279"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-dedupe#83d221d5576d7c0955a023ee1f25d96464020279"
+
+"redux-api-call-adapter-fetch@https://github.com/toan2406/redux-api-call-adapter-fetch#v1.1.0":
+  version "1.1.0"
+  uid "6c2d44f2552417a7bddd9591d554647d9051e737"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-fetch#6c2d44f2552417a7bddd9591d554647d9051e737"
+
+"redux-api-call-adapter-json@https://github.com/toan2406/redux-api-call-adapter-json#v1.0.0":
+  version "1.0.0"
+  uid "75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-json#75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
 
 redux-mock-store@^1.2.0:
   version "1.2.3"
