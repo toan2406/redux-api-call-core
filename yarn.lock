@@ -2489,6 +2489,21 @@ read-pkg@^1.0.0:
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
 
+"redux-api-call-adapter-dedupe@https://github.com/toan2406/redux-api-call-adapter-dedupe#v1.0.0":
+  version "1.0.0"
+  uid "83d221d5576d7c0955a023ee1f25d96464020279"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-dedupe#83d221d5576d7c0955a023ee1f25d96464020279"
+
+"redux-api-call-adapter-fetch@https://github.com/toan2406/redux-api-call-adapter-fetch#v1.1.0":
+  version "1.1.0"
+  uid "6c2d44f2552417a7bddd9591d554647d9051e737"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-fetch#6c2d44f2552417a7bddd9591d554647d9051e737"
+
+"redux-api-call-adapter-json@https://github.com/toan2406/redux-api-call-adapter-json#v1.0.0":
+  version "1.0.0"
+  uid "75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-json#75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+
 redux-mock-store@^1.2.0:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/redux-mock-store/-/redux-mock-store-1.2.3.tgz#1b3ad299da91cb41ba30d68e3b6f024475fb9e1b"
@@ -3089,8 +3104,9 @@ xml-name-validator@^2.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yargs-parser@^5.0.0:
   version "5.0.0"
