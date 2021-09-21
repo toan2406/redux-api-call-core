@@ -2489,6 +2489,21 @@ read-pkg@^1.0.0:
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
 
+"redux-api-call-adapter-dedupe@https://github.com/toan2406/redux-api-call-adapter-dedupe#v1.0.0":
+  version "1.0.0"
+  uid "83d221d5576d7c0955a023ee1f25d96464020279"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-dedupe#83d221d5576d7c0955a023ee1f25d96464020279"
+
+"redux-api-call-adapter-fetch@https://github.com/toan2406/redux-api-call-adapter-fetch#v1.1.0":
+  version "1.1.0"
+  uid "6c2d44f2552417a7bddd9591d554647d9051e737"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-fetch#6c2d44f2552417a7bddd9591d554647d9051e737"
+
+"redux-api-call-adapter-json@https://github.com/toan2406/redux-api-call-adapter-json#v1.0.0":
+  version "1.0.0"
+  uid "75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-json#75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+
 redux-mock-store@^1.2.0:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/redux-mock-store/-/redux-mock-store-1.2.3.tgz#1b3ad299da91cb41ba30d68e3b6f024475fb9e1b"
@@ -2909,8 +2924,9 @@ timekeeper@^0.1.1:
   resolved "https://registry.yarnpkg.com/timekeeper/-/timekeeper-0.1.1.tgz#e9ec4cd2e2839a029d3ac53be588c906d4c73bd1"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^1.0.1:
   version "1.0.2"
