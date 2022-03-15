@@ -2112,8 +2112,9 @@ locate-path@^2.0.0:
     path-exists "^3.0.0"
 
 lodash-es@^4.2.1:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
+  integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==
 
 lodash@^4.14.0, lodash@^4.16.1, lodash@^4.2.0, lodash@^4.2.1:
   version "4.17.4"
@@ -2488,6 +2489,21 @@ read-pkg@^1.0.0:
     load-json-file "^1.0.0"
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
+
+"redux-api-call-adapter-dedupe@https://github.com/toan2406/redux-api-call-adapter-dedupe#v1.0.0":
+  version "1.0.0"
+  uid "83d221d5576d7c0955a023ee1f25d96464020279"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-dedupe#83d221d5576d7c0955a023ee1f25d96464020279"
+
+"redux-api-call-adapter-fetch@https://github.com/toan2406/redux-api-call-adapter-fetch#v1.1.0":
+  version "1.1.0"
+  uid "6c2d44f2552417a7bddd9591d554647d9051e737"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-fetch#6c2d44f2552417a7bddd9591d554647d9051e737"
+
+"redux-api-call-adapter-json@https://github.com/toan2406/redux-api-call-adapter-json#v1.0.0":
+  version "1.0.0"
+  uid "75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
+  resolved "https://github.com/toan2406/redux-api-call-adapter-json#75c7cf17f1c890a72aba41df7595c1cb35bfd6d9"
 
 redux-mock-store@^1.2.0:
   version "1.2.3"
